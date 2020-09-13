@@ -21,5 +21,7 @@ A complete set of cricket dataset for test and limited overs is available on htt
 - non-striker: min(runs scored by striker, runs scored by non-striker)
 
 ## Algorithm Used
-Support Vector Machines : 
-<br/>Random Forest Regression : 
+
+Support Vector Machines : cricket_pred_SVM
+<br>Random Forest Regression : cricket_predictions
+
