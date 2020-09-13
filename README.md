@@ -1,4 +1,4 @@
-
+# Cricket Simulation
 I have tried to implement The cricket simulation model where the first innings score is predicted using ML algorithms.
 ## Dataset
 A complete set of cricket dataset for test and limited overs is available on https://cricsheet.org/downloads/.
