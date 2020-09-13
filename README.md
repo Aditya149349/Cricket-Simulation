@@ -23,8 +23,8 @@ A complete set of cricket dataset for test and limited overs is available on htt
 ## Algorithm Used
 
 I've used both SVM and Random forest regression. Random Forest Regression was able to predict using the entire dataset(consisting of 3,50,000 Rows. The SVM algorithm was taking a lot of time for data over 5000 rows.
-<br>Support Vector Machines : cricket_pred_SVM
-<br>Random Forest Regression : cricket_predictions
+<br>**Support Vector Machines : cricket_pred_SVM**
+<br>**Random Forest Regression : cricket_predictions**
 
 
 
