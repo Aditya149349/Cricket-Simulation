@@ -2,7 +2,7 @@
 I have tried to implement The cricket simulation model where the first innings score is predicted using ML algorithms.
 ## Dataset
 A complete set of cricket dataset for test and limited overs is available on https://cricsheet.org/downloads/.
-<br/>For my simulation I've retrieved a dataset which has the data for the teams of England and Ireland, England being the batting team and Ireland being the bowling team : https://github.com/codophobia/CricketScorePredictor/blob/master/data/odi.csv
+<br/>For my simulation I've retrieved a dataset which has the data for the teams of England and Ireland, England being the batting team and Ireland being the bowling team.
 
 ### Each dataset consists of the following columns:
 - mid: Each match is given a unique number
